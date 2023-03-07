@@ -8,7 +8,7 @@
 [git document](https://git-scm.com)
 
 <p align="center">
-    <img width="200" src="![SCR-20230130-c](https://user-images.githubusercontent.com/123101750/223355276-434fd96c-e71c-400e-9e09-c6c9cf6d43b4.jpeg)">
+    <img width="200" src="https://ibb.co/FzRwKds">
 </p>
 
 <h1 align="center">Git学习记录</h1>
