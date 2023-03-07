@@ -1,6 +1,11 @@
 # ayao-git-note
 [github flavored markdown](https://github.github.com/gfm/)
+
 [git flight rules](https://github.com/k88hudson/git-flight-rules/blob/master/README.md)
+
+[.gitignore](https://github.com/github/gitignore)
+
+[git document](https://git-scm.com)
 
 <p align="center">
     <img width="200" src="![SCR-20230130-c](https://user-images.githubusercontent.com/123101750/223355276-434fd96c-e71c-400e-9e09-c6c9cf6d43b4.jpeg)">
