@@ -3,6 +3,8 @@
 
 [git tutroial](https://www.atlassian.com/git/tutorials/learn-git-with-bitbucket-cloud)
 
+[🚀 CS Visualized: Useful Git Commands](https://dev.to/lydiahallie/cs-visualized-useful-git-commands-37p1)
+
 [git document](https://git-scm.com)
 
 [git flight rules](https://github.com/k88hudson/git-flight-rules/blob/master/README.md)
@@ -17,6 +19,7 @@
 
 [3blue1brown动画制作引擎](https://github.com/leekunhwee/manim)
 
+[JavaScript Visualized: the JavaScript Engine](https://dev.to/lydiahallie/javascript-visualized-the-javascript-engine-4cdf)
 
 <p align="center">
     <img width="200" src="https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png">
