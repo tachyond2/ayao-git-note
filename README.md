@@ -9,9 +9,13 @@
 
 [.gitignore](https://github.com/github/gitignore)
 
+[git tutroial](https://www.atlassian.com/git/tutorials/learn-git-with-bitbucket-cloud)
+
 [git document](https://git-scm.com)
 
 [github profile readme]()
+
+
 
 <p align="center">
     <img width="200" src="https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png">
@@ -53,6 +57,8 @@ keep track of  file status
 ## iteract with git
 
 ## iteract with github
+
+## self explanatory execute
 
 ## Git state management mechanisms 
 
@@ -147,7 +153,12 @@ git clean command in most use way
 ## undo the change in romote repositroy
 
 
-## remove untracked file - `git clean` command
+
+## `git clean` command : remove untracked file
+
+** untracked file-object define**
+
+>Untracked files are those that are in the repo's directory but have not yet been added to the repo's index with git add
 
 **Initialize demo repository with tracked and untrack changes**
 ```
