@@ -1,20 +1,21 @@
 # ayao-git-note
 [gitlab flavored markdown](https://docs.gitlab.com/ee/user/markdown.html)
 
-[github wiki]
+[git tutroial](https://www.atlassian.com/git/tutorials/learn-git-with-bitbucket-cloud)
 
-[github action]
+[git document](https://git-scm.com)
 
 [git flight rules](https://github.com/k88hudson/git-flight-rules/blob/master/README.md)
 
 [.gitignore](https://github.com/github/gitignore)
 
-[git tutroial](https://www.atlassian.com/git/tutorials/learn-git-with-bitbucket-cloud)
-
-[git document](https://git-scm.com)
-
 [github profile readme]()
 
+[github wiki]
+
+[github action]
+
+[3blue1brown动画制作引擎](https://github.com/leekunhwee/manim)
 
 
 <p align="center">
@@ -156,7 +157,7 @@ git clean command in most use way
 
 ## `git clean` command : remove untracked file
 
-** untracked file-object define**
+**untracked file-object define**
 
 >Untracked files are those that are in the repo's directory but have not yet been added to the repo's index with git add
 
@@ -181,12 +182,17 @@ new file: tracked_file
 
 Untracked files: (use "git add <file>..." to include in what will be committed) untracked_dir/ untracked_file
 ```
+
 **essential and detachable component lexcial item**
+
 `git clean <option> <path> `
 
 **Default behaviour of `git clean` command**
+
 >remove untracked file in the current directory
+
 >defalut provide info：command hint
+
 >The clean.requireForce configuration option is set to True
 
 
