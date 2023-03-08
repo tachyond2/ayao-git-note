@@ -1,11 +1,16 @@
 # ayao-git-note
 [github flavored markdown](https://github.github.com/gfm/)
 
+[github wiki]
+
+[github action]
+
 [git flight rules](https://github.com/k88hudson/git-flight-rules/blob/master/README.md)
 
 [.gitignore](https://github.com/github/gitignore)
 
 [git document](https://git-scm.com)
+
 
 ```diff
   Unchanged Line
@@ -150,7 +155,37 @@ git commit -m "Edit main.py"
 ```
 ## undo the change in workingbench
 git clean command in most use way
+
 ## undo the change in romote repositroy
+
+
+## undo the change in the stage area - `git clean` command
+
+**Initialize repository with tracked and untrack changes**
+```
+mkdir git_clean_test
+$ cd git_clean_test/
+$ git init .
+Initialized empty Git repository in /Users/kev/code/git_clean_test/.git/
+$ echo "tracked" > ./tracked_file
+$ git add ./tracked_file
+$ echo "untracked" > ./untracked_file
+$ mkdir ./untracked_dir && touch ./untracked_dir/file
+$ git status
+On branch master
+
+Initialize commit
+
+Changes to be committed: (use "git rm --cached <file>..." to unstage)
+
+new file: tracked_file
+
+Untracked files: (use "git add <file>..." to include in what will be committed) untracked_dir/ untracked_file
+```
+**default behaviour of `git clean` command**
+
+
+
 
 移除当前目录下未被跟踪的文件
 它不会删除 .gitignore 中指定的未跟踪的文件
