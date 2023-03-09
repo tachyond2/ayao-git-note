@@ -17,6 +17,10 @@
 
 [github action]
 
+[html crash course](https://www.bilibili.com/video/BV1vs411M7aT/?spm_id_from=333.337.search-card.all.click&vd_source=36d08b4fbc260d917c0c43205e2269e4)
+
+[css crash course]
+
 [3blue1brown动画制作引擎](https://github.com/leekunhwee/manim)
 
 [JavaScript Visualized: the JavaScript Engine](https://dev.to/lydiahallie/javascript-visualized-the-javascript-engine-4cdf)
@@ -83,6 +87,10 @@ During the normal course of development, the HEAD usually points to main or some
 
 
 ## undo the change in commit history
+
+ <img src="https://github.com/tachyond2/ayao-git-note/blob/main/images/commit-his.png" width = "300" height = "200" alt="origion" align=center />
+ <img src="https://github.com/tachyond2/ayao-git-note/blob/main/images/git-checkout.png" width = "300" height = "200" alt="origion" align=center />
+ <img src="https://github.com/tachyond2/ayao-git-note/blob/main/images/git-reset.png" width = "300" height = "200" alt="origion" align=center />
 
 `git revert`command in most use way
 ```
